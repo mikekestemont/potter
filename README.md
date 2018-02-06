@@ -1,7 +1,7 @@
 # J.K. Rowling's Harry Potter Series
 ## Using Digital Humanities to Venture into the Realm of Fantasy
 
-*By Mike Kestemont and Vanessa Joosen*
+*By Mike Kestemont, Vanessa Joosen and Dirk van Hulle*
 
 ### Series
 
